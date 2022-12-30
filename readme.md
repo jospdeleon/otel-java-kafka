@@ -61,7 +61,7 @@ export OTEL_EXPORTER_OTLP_ENDPOINT="https://otlp.nr-data.net:4317"
 export OTEL_EXPORTER_OTLP_HEADERS=api-key=YOUR-API-KEY
 ```
 
-#### Running the Applications
+## Running the Applications
 
 Start the apps from its respective terminal windows:
 
